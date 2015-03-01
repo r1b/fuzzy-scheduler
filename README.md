@@ -7,7 +7,7 @@ A fuzzy scheduler distributes a set of events randomly over an interval.
 
 ## Usage
 
-```
+```javascript
 var scheduler = require('fuzzy-scheduler');
 var moment = require('moment');
 
